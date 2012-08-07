@@ -2,6 +2,8 @@
 
 1. 创建 question paper 关系表
 
+by tongchao
+
 DROP TABLE  IF EXISTS mv_question;
 CREATE TABLE `mv_question` (
   `id` INT(11) NOT NULL AUTO_INCREMENT,
