@@ -1,4 +1,5 @@
-##¹«ÎñÔ±Êı¾İÇ¨ÒÆ==¸üĞÂ¹ØÏµ mv question mv paper
+##å…¬åŠ¡å‘˜æ•°æ®è¿ç§»==æ›´æ–°å…³ç³» mv question mv paper
+
 
 
 TRUNCATE TABLE platform.mv_question ;
